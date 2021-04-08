@@ -327,6 +327,7 @@ footer a{
 	color:#fff;
 	transition:.2s;
 	opacity:.8;
+	display:none;
 }
 .scroll a:hover{
 	background:#12A55a;
